@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "id": "105",
+      "title": "dolores repellendus",
+      "author": "Maryam Reinger",
+      "rating": "3.02",
+      "year_published": 1789
+    },
+    {
+      "id": "106",
+      "title": "quibusdam eos",
+      "author": "Esteban Cassin",
+      "rating": 0.35,
+      "year_published": 1846
+    },
+    {
+      "id": "107",
+      "title": "qui aliquam facilis est neque",
+      "author": "Chaya Stehr",
+      "rating": "4.22",
+      "year_published": 1995
+    },
+    {
+      "id": "108",
+      "title": "minima praesentium et officiis optio",
+      "author": "Christelle Kreiger",
+      "rating": 1.05,
+      "year_published": 1783
+    },
+    {
+      "id": "109",
+      "title": "qui cum autem distinctio eius",
+      "author": "Deion Kshlerin",
+      "rating": "1.15",
+      "year_published": 1877
+    },
+    {
+      "id": "",
+      "title": "sdf",
+      "author": "ds",
+      "rating": "1",
+      "year_published": "1789"
+    },
+    {
+      "id": "",
+      "title": "gggg",
+      "author": "yyy",
+      "rating": "4",
+      "year_published": "2022"
+    },
+    {
+      "id": "",
+      "title": "ff",
+      "author": "erg",
+      "rating": "3",
+      "year_published": "1999"
+    },
+    {
+      "id": "",
+      "title": "sd",
+      "author": "d",
+      "rating": "33",
+      "year_published": "2"
+    },
+    {
+      "id": "",
+      "title": "bg",
+      "author": "df",
+      "rating": "1",
+      "year_published": "1"
+    },
+    {
+      "id": "",
+      "title": "525tg",
+      "author": "f5",
+      "rating": "4",
+      "year_published": "4"
+    }
+  ]
+}
